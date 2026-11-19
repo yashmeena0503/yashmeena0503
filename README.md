@@ -43,3 +43,5 @@ I've run my own Proxmox setup with Debian VMs and Docker, hosting webapps, datab
 yashmeena0503@gmail.com
 
 Open to backend, systems, and infrastructure engineering roles.
+
+bai bai 👋
